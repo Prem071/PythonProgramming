@@ -1,4 +1,3 @@
-# 1.
 
 input=[[10,20,30],50,[20,10],[20]]
 
@@ -11,4 +10,4 @@ for i in input:
         out.append(i)
 print(out) 
 
-8
+
